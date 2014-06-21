@@ -120,6 +120,8 @@ etc/hdcp_8960.dat.enc
 lib/libDxHdcp.so
 
 # GPS
+lib/libgeofence.so
+lib/libloc_api_v02.so
 vendor/lib/libquipc_os_api.so
 vendor/lib/libulp2.so
 
