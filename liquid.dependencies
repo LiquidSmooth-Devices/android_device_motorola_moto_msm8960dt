@@ -18,9 +18,9 @@
     "revision": "kitkat"
   },
   {
-    "remote": "tm",
+    "remote": "ls",
     "repository": "proprietary_vendor_motorola",
     "target_path": "vendor/motorola",
-    "revision": "cm-11.0"
+    "revision": "kitkat"
   }
 ]
